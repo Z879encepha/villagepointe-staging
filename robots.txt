@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Staging pages include meta robots noindex. Do not add Disallow: /.

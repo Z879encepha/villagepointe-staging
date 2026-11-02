@@ -1,0 +1,25 @@
+# STAGING COPY — NOT AUTHORITATIVE
+# VillagePointe.org
+
+> An independent, unofficial informational website about Village Pointe in North Edison, New Jersey, including community information, resident resources and regional travel connections. It is not operated by or affiliated with the condominium association or management. Verify time-sensitive details with official providers.
+
+## Community and resident information
+- [About](https://z879encepha.github.io/villagepointe-staging/about.html)
+- [Community](https://z879encepha.github.io/villagepointe-staging/community.html)
+- [Resident Hub](https://z879encepha.github.io/villagepointe-staging/residents.html)
+- [Public Resources](https://z879encepha.github.io/villagepointe-staging/resources.html)
+- [Contact Information](https://z879encepha.github.io/villagepointe-staging/contact.html)
+
+## Transportation and regional connections
+- [Airport Connections](https://z879encepha.github.io/villagepointe-staging/airports.html)
+- [Rail Connections](https://z879encepha.github.io/villagepointe-staging/rail-connections.html)
+- [Road Connections](https://z879encepha.github.io/villagepointe-staging/road-connections.html)
+
+## Home and safety guides
+- [Pest Prevention and Control](https://z879encepha.github.io/villagepointe-staging/pest-control.html)
+- [Home Safety](https://z879encepha.github.io/villagepointe-staging/home-safety-attached-community.html)
+- [HVAC Guide](https://z879encepha.github.io/villagepointe-staging/hvac-guide.html)
+- [Water Softener Guide](https://z879encepha.github.io/villagepointe-staging/water-softener-guide.html)
+
+## Legal
+- [Notices, Privacy and Terms](https://z879encepha.github.io/villagepointe-staging/legal.html)
